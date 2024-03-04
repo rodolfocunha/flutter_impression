@@ -1,3 +1,5 @@
+//@dart=2.19
+
 library impression;
 
 import 'dart:async';
